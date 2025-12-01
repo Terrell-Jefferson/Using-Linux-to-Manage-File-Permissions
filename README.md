@@ -2,11 +2,11 @@
 
 ## Table of Contents
 - [Project Description](#project-description)
-- [TASK 1: Check File and Directory Details](#check-file-and-directory-details)
-- [TASK 2: Understanding the Permissions String](#understanding-the-permissions-string)
-- [TASK 3: Change File Permissions](#change-file-permissions)
-- [TASK 4: Change File Permissions on a Hidden File](#change-file-permissions-on-a-hidden-file)
-- [TASK 5: Change Directory Permissions](#change-directory-permissions)
+- [Task 1: Check File and Directory Details](#task-1:-check-file-and-directory-details)
+- [Task 2: Understanding the Permissions String](#task-2:-understanding-the-permissions-string)
+- [Task 3: Change File Permissions](#task-3:-change-file-permissions)
+- [Task 4: Change File Permissions on a Hidden File](#task-4:-change-file-permissions-on-a-hidden-file)
+- [Task 5: Change Directory Permissions](#task-5:-change-directory-permissions)
 - [Summary](#summary)
 
 ---
