@@ -3,10 +3,10 @@
 ## Table of Contents
 - [Project Description](#project-description)
 - [Task 1. Check File and Directory Details](#task-1-check-file-and-directory-details)
-- [Task 2: Understanding the Permissions String](#understanding-the-permissions-string)
-- [Task 3: Change File Permissions](#change-file-permissions)
-- [Task 4: Change File Permissions on a Hidden File](#change-file-permissions-on-a-hidden-file)
-- [Task 5: Change Directory Permissions](#change-directory-permissions)
+- [Task 2. Understanding the Permissions String](#task-2-understanding-the-permissions-string)
+- [Task 3. Change File Permissions](#task-3-change-file-permissions)
+- [Task 4. Change File Permissions on a Hidden File](#task-4-change-file-permissions-on-a-hidden-file)
+- [Task 5. Change Directory Permissions](#task-5-change-directory-permissions)
 - [Summary](#summary)
 
 ---
@@ -26,7 +26,7 @@ The first line in the screenshot shows the command I typed, and the rest shows t
 
 ---
 
-## Understanding the Permissions String
+## Task 2. Understanding the Permissions String
 
 Linux file permissions use a 10-character string. The 10-character string can be deconstructed to determine who is authorized to access the file and their specific permissions.
 
@@ -43,7 +43,7 @@ For example, the file permissions for `project_t.txt` are `-rw-rw-r--`. Since th
 
 ---
 
-## Change File Permissions
+## Task 3. Change File Permissions
 
 The organization determined that other shouldn't have write access for the `project_k.txt` file, as well as group not having read or write permissions for the `project_m.txt` file. To comply with this, I referred to the file permissions that I previously returned. I determined `project_k.txt` must have the write access removed for other, and `project_m.txt` needs read removed for group.
 
@@ -55,7 +55,7 @@ The chmod command changes the permissions on files and directories. The first ar
 
 ---
 
-## Change File Permissions on a Hidden File
+## Task 4. Change File Permissions on a Hidden File
 
 The research team recently archived `project_x.txt`. They do not want anyone to have write access to this project, but the user and group should have read access.
 
@@ -67,7 +67,7 @@ The first two lines of the screenshot display the commands I entered, and the ot
 
 ---
 
-## Change Directory Permissions
+## Task 5. Change Directory Permissions
 
 My organization only wants the researcher2 user to have access to the `drafts` directory and its contents. This means that no one other than researcher2 should have execute permissions.
 
