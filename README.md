@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Project Description](#project-description)
-- [Task 1: Check File and Directory Details](#task-1:-check-file-and-directory-details)
+- [Task 1: Check File and Directory Details](#check-file-and-directory-details)
 - [Task 2: Understanding the Permissions String](#task-2:-understanding-the-permissions-string)
 - [Task 3: Change File Permissions](#task-3:-change-file-permissions)
 - [Task 4: Change File Permissions on a Hidden File](#task-4:-change-file-permissions-on-a-hidden-file)
