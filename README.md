@@ -17,7 +17,7 @@ This `README` outlines the steps I followed and the commands I used.
 
 ---
 
-## Task 1: Check File and Directory Details
+## Check File and Directory Details
 I started by examining the permissions of all files and folders inside the `projects` directory.
 
 <img width="870" height="698" alt="Check File and Directory Details" src="https://github.com/user-attachments/assets/0b18d321-5022-4c0e-b9a6-6c4a3a3bcb8b" />
