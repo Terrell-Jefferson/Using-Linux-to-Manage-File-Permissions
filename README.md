@@ -81,7 +81,7 @@ The output shows the permissions for several files and folders. Line 1 is the cu
 
 ## Summary
 
-I changed several file and folder permissions in the projects directory to match what my organization needed. First, I used ls -la to check the current permissions. Then, based on what I found, I used chmod to make the necessary permission changes.
+I changed several file and folder permissions in the projects directory to match what my organization needed. First, I used `ls -la` to check the current permissions. Then, based on what I found, I used `chmod` to make the necessary permission changes.
 
 ---
 
