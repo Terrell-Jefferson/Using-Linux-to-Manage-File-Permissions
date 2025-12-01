@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Project Description](#project-description)
-- [Task 1: Check File and Directory Details](#check-file-and-directory-details)
+- [Task 1. Check File and Directory Details](#task-1-check-file-and-directory-details)
 - [Task 2: Understanding the Permissions String](#understanding-the-permissions-string)
 - [Task 3: Change File Permissions](#change-file-permissions)
 - [Task 4: Change File Permissions on a Hidden File](#change-file-permissions-on-a-hidden-file)
@@ -17,7 +17,7 @@ This `README` outlines the steps I followed and the commands I used.
 
 ---
 
-## Check File and Directory Details
+## Task 1. Check File and Directory Details
 I started by examining the permissions of all files and folders inside the `projects` directory.
 
 <img width="870" height="698" alt="Check File and Directory Details" src="https://github.com/user-attachments/assets/0b18d321-5022-4c0e-b9a6-6c4a3a3bcb8b" />
